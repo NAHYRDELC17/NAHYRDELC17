@@ -1,7 +1,7 @@
-//#### Hi there 👋
+***HI THERE 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" witdh"220"/>
-  <h1 align="center">N. ALBEIRO G. DEL CASTILLO</h1>
+  <h1 align="center">Nahyr A. Gomez del C. </h1>
 <!--
 **NAHYRDELC17/NAHYRDELC17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
