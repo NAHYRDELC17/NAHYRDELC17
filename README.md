@@ -1,4 +1,4 @@
-###### Hi there\n im NAHYR GOMEZ👋
+###### Hi there im Nahyr Gomez👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" witdh"220"/>
 <!--
