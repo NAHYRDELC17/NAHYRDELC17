@@ -1,5 +1,5 @@
-### Hi there 👋
-<dip id="header" align="center">
+###### Hi there\n im NAHYR GOMEZ👋
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" witdh"220"/>
 <!--
 **NAHYRDELC17/NAHYRDELC17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
