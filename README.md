@@ -1,6 +1,6 @@
-### HI ***
+### DELC17GO
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
   <h1 align="center">Nahyr A. Gomez del C. </h1>
   <h0 align="center">Hola Mundo👋✨,Hello World👋✨ ,Hallo Welt👋✨ </h0>
 <!--
