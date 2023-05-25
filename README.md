@@ -1,6 +1,7 @@
-#### Hi there im Nahyr Gomez 👋
+//#### Hi there im Nahyr Gomez 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" witdh"220"/>
+  <h1 align="center">NAHYR ALBEIRO GOMEZ DEL CASTILLO</h1>
 <!--
 **NAHYRDELC17/NAHYRDELC17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
