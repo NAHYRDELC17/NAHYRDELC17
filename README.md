@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my personal skills
 - 💬 Ask me about:*** Java,  C++,  MySQL, VSC ***
 - 📫 How to reach me:*** Nahyr010317@gmail.com ***
-- ⚡ i find Funny: *** Chess, Coding, Sports, Learn languajes ***
-- 🌱 I’m keep learning... ***
+- ⚡ I’m excited when u talk me about: *** Chess, Coding, Sports, Learn languajes ***
+- 🌱 I’m getting all u want to teach me... ***
 
   
