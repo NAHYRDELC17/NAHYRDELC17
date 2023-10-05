@@ -7,7 +7,7 @@
 ### About me:
 
 - 🔭 I’m currently working on my personal skills
-- 💬 Ask me about:*** Java,  C++,  MySQL, VSC ***
+- 💬 Ask me about:*** Java,  C++,  MySQL, VSC, Arduino IDE ***
 - 📫 How to reach me:*** Nahyr010317@gmail.com ***
 - ⚡ I’m excited when u talk me about: *** Chess, Coding, Sports, Learn languajes ***
 - 🌱 I’m getting all u want to teach me... ***
